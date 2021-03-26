@@ -3,7 +3,7 @@ Ray tracing software that renders 3D scenes using light reflection, refraction, 
 
 ## Running
 * Enter the command `scons` to compile the program
-* Type `./ray_tracer -i 00.txt -s 00.png'
+* Type `./ray_tracer -i 00.txt -s 00.png`
 * There are 29 .png files that display what the output should look like 
 * Type `./display output.png` to see what the program is producing as the output
 
