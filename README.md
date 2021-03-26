@@ -7,7 +7,7 @@ Ray tracing software that renders 3D scenes using light reflection, refraction, 
 * There are 29 .png files that display what the output should look like 
 * Type `./display output.png` to see what the program is producing as the output
 
-## Quick Demo of display 20 and 29
+## Quick demo of display 20 and 29
 ![GitHub Logo](/proj-rt-files/20.png)
 
 ![GitHub Logo](/proj-rt-files/29.png)
